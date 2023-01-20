@@ -1,2 +1,6 @@
 text.docx
 build/
+**/configs
+**/configs/local.py
+config.txt
+
